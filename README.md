@@ -2,10 +2,10 @@
 
 ## Install Matlab or Octave
 
-### Model has been trained to recognize handwritten digits
+Model has been trained to recognize handwritten digits
 
-### Model has upto 98% accuracy 
+Model has upto 98% accuracy 
 
-### Test data is availble along with training here
+Test data is provided along with Training data
 
-### Run test_script.m function to test the model
+Run test_script.m function to test the model
