@@ -4,7 +4,7 @@
 
 Model has been trained to recognize handwritten digits
 
-Model has upto 98% accuracy 
+Model has more than 95% accuracy 
 
 Test data is provided along with Training data
 
